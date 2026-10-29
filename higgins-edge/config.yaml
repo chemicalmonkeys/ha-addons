@@ -1,0 +1,19 @@
+name: Higgins Edge
+version: "0.1.0"
+slug: higgins_edge
+description: Connects this home to Higgins. Read-only.
+url: https://github.com/chemicalmonkeys/ha-addons
+arch:
+  - aarch64
+  - amd64
+image: ghcr.io/chemicalmonkeys/higgins-edge
+init: false
+startup: application
+boot: auto
+homeassistant_api: true
+options:
+  control_plane_url: ""
+  edge_token: ""
+schema:
+  control_plane_url: url
+  edge_token: password

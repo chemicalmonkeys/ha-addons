@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4
+- Per-property translation of source states (e.g. a night scenario reported as a bypass).
+- Alarm reports bypassed zones.
+
 ## 0.1.3
 - Reloads the property definition when it changes in the control plane (no restart needed).
 

@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.2.0
+- Executes allowlisted commands from the owner app: lights on/off. Everything else stays read-only.
+
 ## 0.1.5
 - Windows/shutters, presence and opening sensors; lights driven by relays.
 - Discovery mode to propose the property definition.

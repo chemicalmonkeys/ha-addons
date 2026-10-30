@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.2.2
+- Fix: commands failed after a quiet period (idle connection dropped by Home Assistant).
+
 ## 0.2.1
 - Fix: command polling no longer drops the connection every 15 seconds.
 

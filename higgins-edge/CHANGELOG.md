@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.3.0
+- Assistance: an operator can act on what the owner granted — lights, relays, climate mode and target (16–28 °C).
+
 ## 0.2.2
 - Fix: commands failed after a quiet period (idle connection dropped by Home Assistant).
 

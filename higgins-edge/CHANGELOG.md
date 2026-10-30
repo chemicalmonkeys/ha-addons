@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.3
+- Reloads the property definition when it changes in the control plane (no restart needed).
+
 ## 0.1.2
 - Reports its version and deployment shape to the control plane (shown in Higgins Operations).
 

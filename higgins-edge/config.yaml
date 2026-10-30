@@ -1,5 +1,5 @@
 name: Higgins Edge
-version: "0.1.4"
+version: "0.1.5"
 slug: higgins_edge
 description: Connects this home to Higgins. Read-only.
 url: https://github.com/chemicalmonkeys/ha-addons

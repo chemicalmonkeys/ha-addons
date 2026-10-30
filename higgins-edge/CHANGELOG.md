@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.5
+- Windows/shutters, presence and opening sensors; lights driven by relays.
+- Discovery mode to propose the property definition.
+
 ## 0.1.4
 - Per-property translation of source states (e.g. a night scenario reported as a bypass).
 - Alarm reports bypassed zones.

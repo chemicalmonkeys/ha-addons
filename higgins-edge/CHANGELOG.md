@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.4.0
+- Lights report whether they can be dimmed or coloured; new command to set brightness and colour.
+
 ## 0.3.0
 - Assistance: an operator can act on what the owner granted — lights, relays, climate mode and target (16–28 °C).
 

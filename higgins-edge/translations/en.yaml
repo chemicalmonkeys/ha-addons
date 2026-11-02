@@ -1,0 +1,7 @@
+configuration:
+  control_plane_url:
+    name: Higgins address
+    description: Address the edge connects to (for example https://edge.chemicalmonkeys.com). Change it here if it ever moves; no update needed.
+  edge_token:
+    name: Home token
+    description: The token Higgins gave you for this home.

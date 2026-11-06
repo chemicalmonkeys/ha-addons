@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.7.0
+- Reports the health of Home Assistant itself (read-only): Core, OS and Supervisor versions, pending updates, integrations that failed to load, open repairs and the last backup. Sent every 30 minutes and after any update.
+
+## 0.6.0
+- On a home that is not mapped yet, proposes rooms and devices from Home Assistant areas, floors and devices.
+
 ## 0.4.0
 - Lights report whether they can be dimmed or coloured; new command to set brightness and colour.
 
